@@ -1,0 +1,26 @@
+{
+  "name": "delta-dental",
+  "version": "0.1.0",
+  "description": "Automated browser tests",
+  "scripts": {
+    "test:local": "wdio wdio.conf.js"
+  },
+  "dependencies": {
+    "selenium-standalone": "^6.6.0",
+    "selenium-webdriver": "^3.5.0",
+    "wdio-mocha-framework": "^0.5.10",
+    "wdio-selenium-standalone-service": "0.0.9",
+    "wdio-spec-reporter": "^0.1.0",
+    "webdriverio": "^4.8.0"
+  },
+  "devDependencies": {
+  },
+  "tags": [],
+  "keywords": [
+    "deltadental",
+    "selenium",
+    "webdriverio"
+  ],
+  "author": "SofiaJorgji",
+  "license": "UNLICENSED"
+}
